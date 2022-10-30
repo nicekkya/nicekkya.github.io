@@ -49,8 +49,8 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo:  >
-  behance: >
+  weibo:  
+  behance: 
   dribbble: 
   email: nicekkya@foxmail.com
   facebook: 
