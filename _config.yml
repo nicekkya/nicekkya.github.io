@@ -11,7 +11,7 @@ name: kk's blog
 description: "YOLO"
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: 
+url: http://nicekkya.github.io
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
@@ -49,21 +49,21 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
-  behance: # https://www.behance.net/<>
-  dribbble: # https://dribbble.com/<>
+  weibo:  >
+  behance: >
+  dribbble: 
   email: nicekkya@foxmail.com
-  facebook: #https://www.facebook.com/<>
-  flickr: #https://www.flickr.com/<>
+  facebook: 
+  flickr: 
   github: nicekkya/nicekkya.github.io
-  instagram: #https://instagram.com/<>
-  linkedin: #https://www.linkedin.com/in/<>
-  pinterest: #https://www.pinterest.com/<>
-  rss: #随便填点啥RSS就能用了
-  stackoverflow: # http://stackoverflow.com/<>
-  tumblr: # https://<username>.tumblr.com
-  twitter: # https://www.twitter.com/<your_twitter_username> 
-  youtube: # channel/<your_long_string> or user/<user-name>
+  instagram: 
+  linkedin: 
+  pinterest: 
+  rss: 
+  stackoverflow: 
+  tumblr: 
+  twitter: 
+  youtube: 
 
 # 站点页脚的文字
 footer-text: Copyright (c) 2022 来自nicekkya
